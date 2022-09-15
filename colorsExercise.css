@@ -1,27 +1,46 @@
 h1 {
     color: blue;
+    background-color: red;
 }
 
 h2 {
-   color: #00AAFF; 
+   color: #00AAFF;
+   background-color: orange; 
 }
 
 h3 {
     color: #364;
+    background-color: yellow;
 }
 
 h4 {
     color: #ABE422EE;
+    background-color: green;
 }
 
 h5 {
     color: #A23D;
+    background-color: blue;
 }
 
 h6 {
     color: rgb(50, 75, 25);
+    background-color: indigo;
 }
 
 p {
     color: rgba(125, 25, 100, 0.5);
+    background-color: violet;
+}
+
+#only {
+    color: hotpink;
+}
+
+#last {
+    background-color: peachpuff;
+}
+
+.color {
+    border: 5px solid green;
 }
